@@ -44,7 +44,6 @@ Je suis etudiant en informatique de gestion à IAM (Institut Africain de Managem
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedyansane&show_icons=true&locale=en&layout=compact" alt="mohamedyansane" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedyansane&show_icons=true&locale=en" alt="mohamedyansane" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedyansane&" alt="mohamedyansane" /></p>
 
